@@ -257,6 +257,6 @@ Function Prototypes
     * Extracting the root node.
     * Searching for a node in a binary heap of size `n`.
 
-## Authors :black_nib:
+## Author :black_nib:
 
 * > Hope Lekan Davids
